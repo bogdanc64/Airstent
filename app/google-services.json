@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "846978851431",
+    "firebase_url": "https://airstent.firebaseio.com",
+    "project_id": "airstent",
+    "storage_bucket": "airstent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846978851431:android:d60590c0b4bf6184aeaac2",
+        "android_client_info": {
+          "package_name": "com.example.airstent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846978851431-8icorqjfu3bchih9a3qkvh4cu8qhetk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.airstent",
+            "certificate_hash": "56ab28b17ed14e7ccbeb0ef10aeb7c86bc95f238"
+          }
+        },
+        {
+          "client_id": "846978851431-kec110itc0vrfgiglfs5k1r9rkdsqmis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTjgJJQD3Wm2Jiv5N8QZEmnDkWp_wQUk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846978851431-kec110itc0vrfgiglfs5k1r9rkdsqmis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
