@@ -19,10 +19,7 @@ class Login : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
         auth = FirebaseAuth.getInstance()
-
-        back_button.setOnClickListener{
-            _back()
-        }
+        
         register_text_button.setOnClickListener{
             _register()
         }
@@ -90,11 +87,7 @@ class Login : AppCompatActivity() {
         }
 
     }
-    private fun _back()
-    {
-        startActivity(Intent(this, MainActivity::class.java))
-        finish()
-    }
+
     private fun _register()
     {
         startActivity(Intent(this, Register::class.java))
